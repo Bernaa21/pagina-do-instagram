@@ -1,6 +1,9 @@
 ### Recriando a página inicial de login Instagram 🐱‍👤
 
-Somente com 
+###### Meu primeiro projeto do github
+
+Feito somente com 
 
 HTML e CSS
 
+Espero que goste 🦆
